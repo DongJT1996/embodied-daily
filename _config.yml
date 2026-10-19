@@ -1,0 +1,6 @@
+title: 具身智能推特日报
+description: 每日自动追踪推特上的具身智能动态（关键词 + 大佬账号），由 LLM 生成中文摘要
+theme: minima
+timezone: Asia/Shanghai
+lang: zh-CN
+show_excerpts: false
